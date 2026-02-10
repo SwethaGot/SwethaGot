@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swetha</h1>
-<h3 align="center">A passionate AI/ML Engineer and Data Analyst</h3>
+<h3 align="center">A passionate Engineer enthusiastic about Python, AI, ML and Data Analytics</h3>
 
 - 🔭 I’m currently working on [sentiment analysis to study models like BERT and LSTM](https://github.com/SwethaGot/sentiment-analysis-IMDBreviews)
 
