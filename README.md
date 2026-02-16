@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swetha</h1>
 <h3 align="center">A passionate Engineer enthusiastic about Python, AI, ML and Data Analytics</h3>
 
-- 🔭 I’m currently working on [sentiment analysis to study models like BERT and LSTM](https://github.com/SwethaGot/sentiment-analysis-IMDBreviews)
+- 🔭 I’m currently working on [Melbourne News/events discovery AI agent]([https://github.com/SwethaGot/AI-Agent/tree/main])
 
 - 🌱 I’m currently learning **SQL, AWS and GCP**
 
